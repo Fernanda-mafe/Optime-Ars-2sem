@@ -37,3 +37,16 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 ![image](https://github.com/user-attachments/assets/5e90f78e-1f50-4bd5-975f-953dcde8c9d3)
+
+# Objetivo do Projeto
+O projeto tem como objetivo analisar os fluxos de exportação e importação do município de São Paulo, identificando indicadores de desempenho relacionados aos processos produtivos e logísticos. Para isso, será desenvolvido um portal de consulta com os dados tratados, que permita a visualização clara das informações e possa ser apresentado em eventos acadêmicos, feiras tecnológicas e bancas de avaliação.
+
+Levantamento e tratamento de dados
+
+Análise e visualização com Power BI
+
+Aplicação de Inteligência Artificial
+
+Uso de linguagens de programação
+
+Portal de consulta online
