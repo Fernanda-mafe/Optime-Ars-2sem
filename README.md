@@ -23,7 +23,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 16/09/2025 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) (https://fatecspgov.sharepoint.com/:w:/r/sites/PIIGPI-G2-20251/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bdd672a57-35b2-424b-8324-5cefbe8bd4c0%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1750865937202&web=1)| 
-|01 | 06/10/2025 | concluido| [Ver Relatório] file:///C:/Users/Fatec/Pictures/Screenshots/Captura%20de%20tela%202025-11-17%20195835.png
+|01 | 06/10/2025 | concluido| [Ver Relatório] (https://app.powerbi.com/links/63qu573jSz?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=b98e884c-d8dc-47bd-be31-08280dec8df8)
 |02|  10/11/2025| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) (https://fatecspgov.sharepoint.com/sites/PIIGPI-G2-20251/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B9d094aed-cc77-451e-a45b-a2c71e66e2d5%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1750872985445&web=1)| 
 |03| 24/11/2025 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) (https://fatecspgov.sharepoint.com/:u:/r/sites/PIIGPI-G2-20251/Shared%20Documents/General/Sprint%203/power%20bi%20do%20indicadores.pbix?csf=1&web=1&e=WBEisA)|
 |Apresentação ao Cliente |01/12/2025| em andamento
