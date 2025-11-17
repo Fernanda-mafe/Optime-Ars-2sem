@@ -120,7 +120,8 @@ A Optime Ars foi idealizada com uma mentalidade digital focada em inovação, ef
 A Optime Ars foi idealizada com um mindset digital, orientado para inovação, eficiência e tomada de decisão baseada em dados. Como alunos do curso de Gestão da Produção Industrial da FATEC São José dos Campos, aplicamos esse pensamento digital ao analisar os dados de importação e exportação do setor automotivo no Vale do Paraíba, utilizando tecnologia como parte central do processo. Ferramentas como Power BI, Excel e Word foram empregadas para tratar, organizar e transformar dados complexos em informações estratégicas, possibilitando uma visão clara das movimentações logísticas e comerciais da região. Dessa forma, conectamos análise, tecnologia e inteligência de mercado, reforçando uma abordagem moderna, integrada e alinhada às demandas reais da indústria.
 
 ## Cronograma
-![image](https://github.com/user-attachments/assets/d9ed28de-ddee-46fb-860b-cb3a13d9f744)
+![image](<img width="1223" height="686" alt="image" src="https://github.com/user-attachments/assets/59b1c017-b461-47fb-8279-9b8a35aea97c" />
+
 
 
 
