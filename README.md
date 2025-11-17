@@ -142,61 +142,6 @@ Preparar apresentação: organizar storytelling e principais insights.
  
 Documentar projeto: relatório, DoR/DoD, tecnologias e README no GitHub.
 
-
-## Burndown
-![image](https://github.com/user-attachments/assets/a73382c8-8887-4ad9-89c4-b474c0fd5368)
-
-
-## Sprint 1 - Entendimento e Fundamentação
-Objetivo: definir o que o projeto deve entregar e alinhar com o professor.
-Entregas:
-Documento com as perguntas do projeto alinhadas ao kick off.
- 
-Mapeamento do que será analisado (pré-backlog).
- 
-Identificação dos datasets disponíveis (dados decodificados).
- 
-Validação do escopo inicial com o professor. 
-
-## Sprint 2 - Construção do Backlog e Estrutura dos Dados
- Objetivo: transformar o escopo em requisitos claros.
-Entregas:
-Backlog (requisitos escritos, priorizados e explicados).
- 
-Dicionário de dados (explicação das colunas usadas).
- 
-Avaliação dos dados do Power BI:
- 
-conferência se estão coerentes
- 
-identificação de colunas a filtrar/limpar
- 
- 
-Primeiras hipóteses de análise criadas.
-      
-## Sprint 3 - Modelagem e Visualização Inicial
-Objetivo: começar a construir o dashboard e validar a direção.
-Entregas:
- Primeiros gráficos iniciais no Power BI.
- 
-Layout base do dashboard.
- 
-Aplicação dos filtros corretos para garantir que o dado realmente representa o setor automotivo.
- 
-Revisão com professor → Ajustes.
-      
-## Sprint 4 - Operacionalização
-Objetivo: aprofundar a análise e confirmar hipóteses.
-Entregas:
-Indicadores principais (KPIs).
- 
-Comparações de período, produtos, regiões, etc.
- 
-Insights explicados em texto.
-
-Teste de narrativa para apresentação final.
-
-
 # Competências desenvolvidas
 Análise de Dados: limpeza, filtragem, interpretação e validação dos dados decodificados.
  
@@ -213,8 +158,6 @@ Resolução de Problemas: identificação de inconsistências e necessidades de 
 Trabalho em Equipe: divisão de tarefas, integração das entregas e acompanhamento coletivo.
 
 Comunicação escrita formal, através da construção do relatório final seguindo as normas ABNT.
-
-
 
 ## Hard Skill (saber tecnológico)
 <details>
