@@ -52,30 +52,72 @@ Uso de linguagens de programação
 
 # Funcionalidades e Demonstrações das Sprints
 
-## Sprint 1
-![image](https://github.com/user-attachments/assets/42e89da2-1c6f-4a24-8ab3-4784d55f0079)
+## Sprint 1 - Entendimento e Fundamentação
+Objetivo: definir o que o projeto deve entregar e alinhar com o professor.
+Entregas:
+Documento com as perguntas do projeto alinhadas ao kick off.
+ 
+Mapeamento do que será analisado (pré-backlog).
+ 
+Identificação dos datasets disponíveis (dados decodificados).
+ 
+Validação do escopo inicial com o professor.
 
 
-## Sprint 2
-![image](https://github.com/user-attachments/assets/508e585d-ad7c-4004-97cc-668d5cd23868)
+## Sprint 2 - Construção do Backlog e Estrutura dos Dados
+Objetivo: transformar o escopo em requisitos claros.
+Entregas:
+Backlog final (requisitos escritos, priorizados e explicados).
+ 
+Dicionário de dados (explicação das colunas usadas).
+ 
+Avaliação dos dados do Power BI:
+ 
+conferência se estão coerentes
+ 
+identificação de colunas a filtrar/limpar
+ 
+Primeiras hipóteses de análise criadas.
 
-## Sprint 3
-![image](https://github.com/user-attachments/assets/55a362dd-c2cd-457a-91e5-9c69b80aebaa)
+## Sprint 3 - Modelagem e Visualização Inicial
+Objetivo: começar a construir o dashboard e validar a direção.
+Entregas:
+Primeiros gráficos iniciais no Power BI.
+ 
+Layout base do dashboard.
+ 
+Aplicação dos filtros corretos para garantir que o dado realmente representa o setor automotivo.
+ 
+Revisão com professor → Ajustes.
 
-
-
+## Sprint 4 - Análise dos Dados e Geração de Insights
+Objetivo: aprofundar a análise e confirmar hipóteses.
+Entregas:
+Indicadores principais (KPIs).
+ 
+Comparações de período, produtos, regiões, etc.
+ 
+Insights explicados em texto.
+ 
+Teste de narrativa para apresentação final.
 
 ## Tecnologias Utilizadas
 ### Produto 
-Com base no cenário da privatização do serviço de telefonia em um determinado país, a Optime Ars foi criada como uma das empresas vencedoras do leilão. Ela será responsável por instalar a infraestrutura da rede móvel e comercializar celulares e planos na região atribuída. O projeto visa aplicar, de forma prática, os conhecimentos adquiridos no curso de Gestão da Produção Industrial, simulando o desenvolvimento e a operação de uma empresa do setor de telecomunicações, com foco em eficiência, tecnologia acessível e inovação. Tecnologias Específicas e Ferramentas de Apoio Ferramenta Finalidade no Projeto Alternativas Power BI: Desenvolvimento de um dashboard analítico com indicadores de desempenho da empresa; Word: Elaboração do relatório final com descrição do projeto, análises e resultados; Excel Organização de dados, criação de planilhas financeiras, indicadores, operacionais e de controle; PowerPoint com slides: Organizados, gráficos, textos e imagens.
+Power BI – criação de dashboards, KPIs, gráficos e análise visual.
+ 
+Excel – limpeza inicial, organização e validação dos dados decodificados.
+ 
+Power Query – tratamento, transformação e modelagem dos dados.
+ 
+GitHub – versionamento e documentação do projeto.
+ 
+PowerPoint – apresentação final da análise.
 
 ### Tecnológias Específicas/Apoio
-A Optime Ars foi idealizada com base em uma mentalidade digital voltada para a inovação, eficiência e acessibilidade. Como alunos do curso de Gestão da Produção Industrial da FATEC São José dos Campos, buscamos integrar soluções tecnológicas ao nosso modelo de negócios, valorizando dados, automação e inteligência estratégica. Utilizamos ferramentas digitais como Power BI, Excel e Word não apenas como suporte, mas como parte essencial da construção de uma empresa conectada com as exigências do mercado atual.
+A Optime Ars foi idealizada com uma mentalidade digital focada em inovação, eficiência e análise estratégica. Como alunos do curso de Gestão da Produção Industrial da FATEC São José dos Campos, desenvolvemos um estudo aprofundado sobre os dados de importação e exportação no Vale do Paraíba, integrando soluções tecnológicas para transformar informações brutas em inteligência aplicada. Utilizamos ferramentas como Power BI, Excel e Word para tratamento, visualização e documentação dos dados, garantindo uma abordagem analítica alinhada às exigências do mercado e às necessidades reais da cadeia produtiva regional. Nossa proposta conecta tecnologia, análise de desempenho e tomada de decisão baseada em evidências, reforçando o compromisso com uma gestão moderna e orientada por dados.
   
 ### Mindset Digital
-A Optime Ars foi idealizada com base em uma mentalidade digital voltada para a inovação, eficiência e acessibilidade. Como alunos do curso de Gestão da Produção Industrial da FATEC São José dos Campos, buscamos integrar soluções tecnológicas ao nosso modelo de negócios, valorizando dados, automação e inteligência estratégica.
-Utilizamos ferramentas digitais como Power BI, Excel e Word não apenas como suporte, mas como parte essencial da construção de uma empresa conectada com as exigências do mercado atual.
-# Cronograma das Sprints
+A Optime Ars foi idealizada com um mindset digital, orientado para inovação, eficiência e tomada de decisão baseada em dados. Como alunos do curso de Gestão da Produção Industrial da FATEC São José dos Campos, aplicamos esse pensamento digital ao analisar os dados de importação e exportação do setor automotivo no Vale do Paraíba, utilizando tecnologia como parte central do processo. Ferramentas como Power BI, Excel e Word foram empregadas para tratar, organizar e transformar dados complexos em informações estratégicas, possibilitando uma visão clara das movimentações logísticas e comerciais da região. Dessa forma, conectamos análise, tecnologia e inteligência de mercado, reforçando uma abordagem moderna, integrada e alinhada às demandas reais da indústria.
 
 ## Cronograma
 ![image](https://github.com/user-attachments/assets/d9ed28de-ddee-46fb-860b-cb3a13d9f744)
@@ -86,32 +128,19 @@ Utilizamos ferramentas digitais como Power BI, Excel e Word não apenas como sup
 
 
 ## Backlog do produto
-Requisitos Funcionais (o que será oferecido):
-
-📱 Venda de smartphones nacionais e importados com preços acessíveis.
-
-Oferta de planos de telefonia móvel com dados móveis, voz e SMS.
-
-Emissão de faturas digitais e controle de consumo via aplicativo.
-
-Acesso a relatórios de consumo e indicadores (Dashboard).
-
-Suporte ao cliente via canais digitais (chat, e-mail).
-
-Sistema de compras online com integração ao site da empresa.
-
-Requisitos Não Funcionais (como será oferecido):
-Sistema ágil e responsivo, com bom desempenho em dispositivos móveis.
-
-Segurança dos dados dos usuários conforme LGPD.
-
-Plataforma em nuvem, garantindo disponibilidade e escalabilidade.
-
-Interface amigável e intuitiva para o cliente final.
-
-Integração com ferramentas como Power BI e GitHub para controle e análise.
-
-Infraestrutura pensada para crescimento sustentável e melhoria contínua.
+Definir escopo: confirmar objetivo da análise e requisitos com o professor.
+ 
+Tratar dados: limpar, padronizar e criar dicionário de dados.
+ 
+Modelar dados: usar Power Query, integrar tabelas e estruturar colunas.
+ 
+Criar dashboard: KPIs, gráficos por ano (2021–2025), setor automotivo e filtros.
+ 
+Analisar resultados: identificar tendências, destaques e comportamento regional.
+ 
+Preparar apresentação: organizar storytelling e principais insights.
+ 
+Documentar projeto: relatório, DoR/DoD, tecnologias e README no GitHub.
 
 
 ## Burndown
